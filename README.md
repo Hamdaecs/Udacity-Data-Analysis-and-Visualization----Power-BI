@@ -92,3 +92,6 @@ They need you to conduct an analysis to determine the best product to advertise 
 ![image](https://github.com/Hamdaecs/Udacity-Data-Analysis-and-Visualization----Power-BI/assets/144589625/e92ae459-6541-4df3-b671-e1e4b3c0001f)
 
 
+____________________________________________________________________________
+**Certificate of Completion**
+![Screenshot 2024-07-08 194704](https://github.com/Hamdaecs/Udacity-Data-Analysis-and-Visualization----Power-BI/assets/144589625/36677cca-86a8-4165-8a00-138b281a97ce)
